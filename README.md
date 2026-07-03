@@ -167,7 +167,7 @@ This project provides a complete pipeline for performing **classification, clust
 
 ## 👨‍💻 Author
 
-* Name: V Manoviraj 
+* Name: V.Manoviraj 
 * Roll No:160123771134
 * Course: Big Data Analytics
 * Institution: Chaitanya Bharathi Institute of Technology
